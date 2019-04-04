@@ -10,7 +10,8 @@ namespace Activity2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("H there");
+           
+            Console.WriteLine("Hello world");
         }
     }
 }
